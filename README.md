@@ -7,7 +7,7 @@ You can use an existing docker image via:
 docker run -p 8000 -e HOSTNAME=www.google.com justicel/docker-dns-healthcheck:1.0.0
 ```
 
-Setup
+Build
 ---
 ```
 docker build -t <my-image-name> .
