@@ -19,6 +19,7 @@ Environment Variables
 
 ```
 HOSTNAME (Default: www.yahoo.com)
+```
 
 Usage
 ---
